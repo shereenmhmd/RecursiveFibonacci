@@ -9,7 +9,7 @@ public class RecursiveFibonacci {
 		// 4181, 6765, 10946,
 		System.out.println("fibonacci of 10 = " + febRecursion(10));
 		System.out.println("fibonacci of 7 = " + febRecursion(7));
-		System.out.println("fibonacci of 7 " + febRecursion(5));
+		System.out.println("fibonacci of 5 = " + febRecursion(5));
 
 	}
 
